@@ -1,4 +1,4 @@
-# KLAR.
+8# KLAR.
 
 **Understand the rules before you apply.**
 
@@ -70,3 +70,5 @@ It is a decision and application workspace that keeps eligibility, readiness and
 ## Important note
 
 This is an independent **concept / portfolio MVP**, not a legal eligibility service and not a production rental platform. Demo criteria and provider names are illustrative. Final eligibility and tenant selection remain with the relevant provider.
+
+https://www.figma.com/design/sPc0JP3yhlAgLeu9l3KiOF/Untitled?node-id=0-1&t=YhPvi4zljB48bEvF-1
